@@ -14,6 +14,7 @@
 		26C017D2207E4A160094C2EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26C017D0207E4A160094C2EC /* LaunchScreen.storyboard */; };
 		26C017DD207E4A160094C2EC /* PhotoMasterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26C017DC207E4A160094C2EC /* PhotoMasterTests.swift */; };
 		26C017E8207E4A160094C2EC /* PhotoMasterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26C017E7207E4A160094C2EC /* PhotoMasterUITests.swift */; };
+		26C017F6207E790B0094C2EC /* PAK85_azayakanairo20141206093648_TP_V.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 26C017F5207E790A0094C2EC /* PAK85_azayakanairo20141206093648_TP_V.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		26C017E3207E4A160094C2EC /* PhotoMasterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoMasterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		26C017E7207E4A160094C2EC /* PhotoMasterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoMasterUITests.swift; sourceTree = "<group>"; };
 		26C017E9207E4A160094C2EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26C017F5207E790A0094C2EC /* PAK85_azayakanairo20141206093648_TP_V.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PAK85_azayakanairo20141206093648_TP_V.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				26C017CE207E4A160094C2EC /* Assets.xcassets */,
 				26C017D0207E4A160094C2EC /* LaunchScreen.storyboard */,
 				26C017D3207E4A160094C2EC /* Info.plist */,
+				26C017F5207E790A0094C2EC /* PAK85_azayakanairo20141206093648_TP_V.jpg */,
 			);
 			path = PhotoMaster;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				26C017D2207E4A160094C2EC /* LaunchScreen.storyboard in Resources */,
+				26C017F6207E790B0094C2EC /* PAK85_azayakanairo20141206093648_TP_V.jpg in Resources */,
 				26C017CF207E4A160094C2EC /* Assets.xcassets in Resources */,
 				26C017CD207E4A160094C2EC /* Main.storyboard in Resources */,
 			);
